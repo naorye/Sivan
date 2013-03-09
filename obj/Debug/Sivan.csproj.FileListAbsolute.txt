@@ -1,0 +1,5 @@
+C:\WorkingDirectory\Projects\Sivan\Sivan\bin\Sivan.dll
+C:\WorkingDirectory\Projects\Sivan\Sivan\bin\Sivan.pdb
+C:\WorkingDirectory\Projects\Sivan\Sivan\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkingDirectory\Projects\Sivan\Sivan\obj\Debug\Sivan.dll
+C:\WorkingDirectory\Projects\Sivan\Sivan\obj\Debug\Sivan.pdb
